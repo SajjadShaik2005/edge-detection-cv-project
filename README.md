@@ -16,7 +16,7 @@ This project implements a simple Computer Vision system that performs real-time 
 
 Clone the repository:
 
-git clone https://github.com/yourusername/edge-detection-cv-project.git
+git clone https://github.com/SajjadShaik2005/edge-detection-cv-project.git
 
 Navigate to the folder:
 
